@@ -17,7 +17,7 @@ La banca è composta da esercizi originali basati sugli argomenti del materiale 
 
 ## Uso
 
-Aprire `index.html` nel browser, oppure visitare il sito quando GitHub Pages sarà attivato. Non sono richiesti installazione, compilazione o account degli studenti. L'app funziona anche offline.
+Aprire [MisuraLab online](https://mich090909.github.io/misuralab/), oppure aprire `index.html` nel browser. Non sono richiesti installazione, compilazione o account degli studenti. L'app funziona anche offline.
 
 - Filtri per argomento, tipologia, livello e attività da ripassare.
 - Correzioni delle scelte multiple e dei risultati numerici.
@@ -47,7 +47,7 @@ L'app non richiede nomi o indirizzi e-mail e non contiene servizi di analisi, li
 - Ricalcolo indipendente di tutti gli 80 risultati numerici.
 - Test di correzione, parser numerico, arrotondamenti, autovalutazione, filtri, salvataggio e simulazione, incluso il timeout.
 
-Il collaudo visivo e delle interazioni in un browser reale resta da completare. I test della logica sono stati eseguiti con un ambiente DOM simulato.
+L'app pubblicata è stata collaudata anche nel browser Chrome: caricamento e interfaccia desktop, correzione della scelta multipla, controllo di 7,7 rispetto a 7,70, salvataggio dell'autovalutazione e avvio/consegna della simulazione. I test completi della logica sono stati eseguiti con un ambiente DOM simulato. La visualizzazione su smartphone non è stata collaudata direttamente.
 
 ## Struttura
 
